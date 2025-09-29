@@ -1,0 +1,6 @@
+Note that the df_ema_merged.xlsx is not provided here to confirm to regulations set by GDPR. We consider the daily life self-reported data on participants' emotions. stress levels and perceived safety to be sensitive. As already stated in the README.md on the main page, if you are a researcher who would like this data to specifically replicate the results of the current study, reach out to the corresponding author.
+
+
+In the final_df_sitting.xlsx file, the following covariates are excluded as they can be considered sensitive data: Current smoking status (Variable name: Current_Smoking), the physical activity level over the past week (Variable name: IPAQ_SF), education level (Variable name: Education), BMI category (Variable name: BMI_Category), the continuous BMI variable (Variable name: BMI), ethnicity (Variable name: Ethnicity), as well as the data of the three participants who did not give consent for their de-identified data to be used in other research studies.
+
+In the final_df_sitting_conservative, the same data as above is removed.

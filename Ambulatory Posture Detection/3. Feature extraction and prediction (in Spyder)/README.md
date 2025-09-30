@@ -1,0 +1,1 @@
+These files have been provided by Sjors van de Ven based on VU-AMS Core for the Speech Detection Study. Therefore, the posture detection can be used safely (put the correlation matrices he provided in the Supplementary of the document). However, the dynamic/static detection cannot be used as the only dynamic condition in the Speech Detection Study was treadmill walking.

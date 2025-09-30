@@ -11,6 +11,6 @@ Lab Calibration:
 
 Ambulatory Posture Detection: Includes: 1) the MATLAB script provided by the VU-AMS manufacturers (code authored by Aniket Mazumder and Cor Stoof of the VU Ambulatory Monitoring Solutions) to enable us extract the raw data, 2)Jupyter Notebook used to convert the .mat files to .h5, 3) the posture detection feature extraction and posture scripts as well as the machine learning model itself provided by Sjors van de Ven and colleagues.  
 
-Merging Data and Calculating RSA Metrics:
+Merging Data and Calculating RSA Metrics: includes the Jupyter notebook script (.ipynb) along with the excel data that takes through merging the physiological data with posture data across participants, converting the inspiratory amplitude values to calibrated tidal volume (in L), doing data cleaning (i.e., removing NA values, physiologically implausible values, outlier removal), the calculation of the RSA metrics, as well as averaging the RSA values preceding each EMA prompt (for answering Research Question 3).
 
 Analyses: includes the R scripts used for multilevel model fitting and full variance decomposition of the models. The dataframes are also provided for all Research Questions 1, 2, and 3.
